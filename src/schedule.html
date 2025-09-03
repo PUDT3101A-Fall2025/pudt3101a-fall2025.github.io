@@ -1,0 +1,17 @@
+---
+title: Class Schedule
+---
+<table>
+  {%- for class in collections.class -%}
+    <tr>
+      <td>{{ class.data.date | date: "%a, %b %d" }}</td>
+      <td>
+        {%- if class.url -%}
+          <a href="{{ class.url }}">{{ class.data.title }}</a>
+        {%- else -%}
+          {{ class.data.title }}
+        {%- endif -%}
+      </td>
+    </tr>
+  {%- endfor -%}
+</table>
