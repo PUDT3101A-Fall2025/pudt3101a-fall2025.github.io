@@ -1,5 +1,5 @@
 ---
-title: Assignment 1 - Collage
+title: "Assignment 1: Collage"
 ---
 Assigned: September 3, 2025<br/>
 **DUE: September 22, 2025 at 12:00PM**

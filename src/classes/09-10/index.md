@@ -13,3 +13,9 @@ title: CSS Grid
 ### CSS Grid
 
 We're going to be using [this guide primarily](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+### Draw a Building
+
+Take a photo of the front of a building near us. As an example:
+
+![Large stone building](building.jpg)
