@@ -34,7 +34,7 @@ You will be graded on your technical decisions, especially as they relate to you
 * 3 pages (no more no less) with at least 10 images and 3 lines or blocks of text on each page.
 * A mixture of media you create and found items from elsewhere. Any found or AI-generated media should be credited, including links to sources.
 * Your text should be styled e.g. using a custom font, sizing, etc.
-* Each page should have a different layout using CSS Grid, scaling as necessary to support multiple screen sizes.
+* Each page should have a different layout using CSS Grid, ~~scaling as necessary to support multiple screen sizes~~.
 * You should be able to navigate from page to page using links.
 * Appropriate semantic HTML tags for paragraphs, headings, figures and so on.
 * Alt tags to describe visual elements and embed any text that’s rendered in an image.
