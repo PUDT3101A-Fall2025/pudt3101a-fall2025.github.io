@@ -1,8 +1,9 @@
 ---
 title: "Assignment 2: Collection"
 ---
-Assigned: September 22, 2025<br/>
-**DUE: October 13, 2025 at 12:00PM**
+Assigned: September 22, 2025\
+**NEW DUE DATE: October 16, 2025 at 11:59PM**\
+~~Previously Due October 13th~~
 
 ### Overview
 
@@ -53,6 +54,4 @@ In this assignment you’ll use HTML, CSS and Eleventy.js to create a collection
 
 ### Submission
 
-Your website should be published to the web using GitHub pages. Submit your assignment by submitting your GitHub pages link in Canvas.
-
-Please include a code walkthrough to talk through how you built your site.
+Your website should be published to the web using GitHub pages. Submit your assignment by submitting **the link to your GitHub repository** in Canvas.
